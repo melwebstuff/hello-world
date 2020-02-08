@@ -20,4 +20,4 @@ jobs:
       with:
         #Artifact Name
           name: hello-world-artifact
-          path: hello-world
+          path: .
