@@ -16,7 +16,7 @@ jobs:
         echo Add other actions to build,
         echo test, and deploy your project.
     - name: Upload artifact
-      uses: action/upload-artifact@v1.0.0
+      uses: action/upload-artifact@master
       with:
         #Artifact Name
           name: hello-world-artifact
