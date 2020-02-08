@@ -1,3 +1,4 @@
 # Add 'hello-world' to any changes within 'example' folder or any subfolders
-label1:
+bug:
+  -./*
   - hello-world/*
