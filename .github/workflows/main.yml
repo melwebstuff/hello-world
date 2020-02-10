@@ -20,4 +20,4 @@ jobs:
       with:
         #Artifact Name
           name: hello-world-artifact
-          path: .
+          path: hello-world/labelexample
